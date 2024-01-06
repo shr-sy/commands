@@ -1,0 +1,10 @@
+git checkout filename.
+git checkout .
+git reset filename
+git reset --soft HEAD~1
+git reset --mixed HEAD~1
+git reset HEAD~1
+git reset --hard HEAD~1
+git revert commit-Id
+git push alias branchname
+git rm filename

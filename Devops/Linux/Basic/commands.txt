@@ -1,0 +1,26 @@
+mkdir
+cd
+cd ..
+touch
+pwd
+ls
+rmdir
+rm
+cat
+echo
+man
+whoami
+clear
+history
+rm -r directoryname
+vi
+nano
+ls -l
+ls -a
+mkdir name
+mkdir dir1 dir2 dirn
+mkdir -p dir|subdir|subdir
+touch fname
+touch f1 f2 f3
+touch filename {1..n}.extension
+

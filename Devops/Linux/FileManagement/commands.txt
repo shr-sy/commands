@@ -1,0 +1,3 @@
+mv filename DirectoryPath
+cp filename DirectoryPath
+mv Old filename New filename

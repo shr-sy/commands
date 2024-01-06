@@ -1,0 +1,35 @@
+git init
+git config user.name "shruti"
+git config user.email "shruti.gupta.com@gmail.com"
+git config --edit
+git status
+git add filename
+git add *.extension
+git add ./--all/-A
+git commit -m "message"/ -am
+git remote add origin URL
+git push origin master/branch
+git branch bname
+git checkout -b bname
+git checkout bname
+git switch bname
+git branch /--list
+git merge bname
+git rebase bname
+git cherry_pick commit ID
+git clone URL
+git branch -d bname
+git branch -D bname
+git push origin -d bname
+git log/ --oneline/ -number / -filename
+git reflog
+git fetch branchUrl branch name
+git pull alias branchname
+git stash
+git stash --list
+git stash apply
+git stash drop
+git stash clear
+git diff <branch 1><branch 2>
+git diff <commit-Id of any file><commit-Id of different file>
+
