@@ -22,5 +22,5 @@ mkdir dir1 dir2 dirn
 mkdir -p dir|subdir|subdir
 touch fname
 touch f1 f2 f3
-touch filename {1..n}.extension
+touch filename{1..n}.extension
 
